@@ -1,0 +1,27 @@
+
+# Arquivos compilados
+*.dcu
+*.exe
+*.dll
+*.bpl
+*.dcp
+*.identcache
+*.vlb
+
+# Configurações locais
+*.dproj.local
+*.groupproj.local
+*.local
+*.stat
+*.dsk
+
+# Histórico e temporários do Delphi
+__history/
+__recovery/
+*.~*
+
+# Pastas de compilação
+Win32/
+Win64/
+Debug/
+Release/
